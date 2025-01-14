@@ -1,1 +1,4 @@
 /.idea/
+/credentials_google_calendar.json
+/token.json
+/node_modules/
